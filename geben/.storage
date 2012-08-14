@@ -1,0 +1,5 @@
+((:proxy nil :port 9000 :language :php :fileuri "file:///D:/wamp/www/link.php" :source
+         ("file:///D:/wamp/www/link.php" "file:///D:/wamp/www/link.php" "file:///D:/wamp/www/link.php" "file:///D:/wamp/www/link.php"))
+ (:proxy nil :port 9000 :language :php :fileuri "file:///D:/wamp/www/test2.php" :source
+         ("file:///D:/wamp/www/test2.php"))
+ (:proxy nil :port 9000 :language :php :fileuri "file:///D:/wamp/www/index.php"))
